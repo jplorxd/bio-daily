@@ -6,7 +6,7 @@
   - site/index.html    静态晨报网页（GitHub Pages 部署用）
 """
 import json, os, re, sys, time
-from datetime import datetime
+from datetime import datetime, timedelta
 from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
@@ -17,7 +17,8 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml",
 }
 TIMEOUT = 20
-MAX_ITEMS_PER_SOURCE = 30
+MAX_ITEMS_PER_SOURCE = 50
+MAX_AGE_DAYS = 7
 DATE_PATTERNS = [
     re.compile(r"(20\d{2})[-/年](\d{1,2})[-/月](\d{1,2})日?"),
     re.compile(r"(\d{1,2})[-/月](\d{1,2})日"),
@@ -28,6 +29,20 @@ CATEGORY_RULES = [
     ("科研前沿", ["Science","Nature","Cell","论文","研究","揭示","发现","机制","首次","课题组","团队","科学家","新发现","突破","进展","成果","解析","证实","基因组","基因","CRISPR","编辑","单细胞","测序","多组学","蛋白","结构"]),
     ("技术突破", ["AI","人工智能","大模型","机器学习","深度学习","类器官","器官芯片","合成生物","合成生物学","发酵","酶","生物制造","细胞工厂","3D打印","生物材料","纳米","芯片","自动化","高通量","机器人"]),
     ("综合", []),
+]
+IRRELEVANT_KEYWORDS = [
+    "地铁","房地产","房价","楼市","稀土","电网","居民用电","用电量","光伏","风电",
+    "碳排放","碳中和","汽车","锂电","电池","钢铁","股市","股票","基金","黄金",
+    "石油","期货","货币政策","央行","电竞","游戏","电影","电视剧","综艺","体育",
+    "足球","篮球","人工智能大会","数字经济","数据要素","算力","大模型竞赛",
+]
+BIO_MUST_KEYWORDS = [
+    "生物","细胞","基因","蛋白","核酸","RNA","DNA","CRISPR","基因组","肿瘤","癌症",
+    "癌","免疫","疫苗","药物","临床","疾病","感染","细菌","病毒","真菌","微生物",
+    "酶","代谢","神经","脑","心脏","肝","肾","肺","肠道","菌群","抗体","治疗",
+    "疗法","患者","生态","进化","物种","植物","动物","昆虫","海洋生物","合成生物",
+    "类器官","器官芯片","干细胞","测序","单细胞","多组学","表观遗传","线粒体",
+    "溶酶体","蛋白质","受体","信号通路","脂质","发酵",
 ]
 
 def fetch_html(url):
@@ -56,6 +71,20 @@ def extract_date(text, now):
             except ValueError:
                 pass
     return now.strftime("%Y-%m-%d")
+
+def is_recent(date_str, now, max_days=MAX_AGE_DAYS):
+    try:
+        d = datetime.strptime(date_str, "%Y-%m-%d")
+        return 0 <= (now - d).days <= max_days
+    except ValueError:
+        return False
+
+def is_relevant(title, strict=False):
+    if any(kw in title for kw in IRRELEVANT_KEYWORDS):
+        return False
+    if strict:
+        return any(kw in title for kw in BIO_MUST_KEYWORDS)
+    return True
 
 def classify(title, summary=""):
     text = f"{title} {summary}"
@@ -86,7 +115,10 @@ def crawl_bioon():
             if parent is None: break
             date_text = parent.get_text(" ", strip=True)
             if re.search(r"20\d{2}", date_text): break
-        items.append({"title": title, "url": url, "date": extract_date(date_text, now), "source": "生物谷", "category": classify(title), "summary": ""})
+        date = extract_date(date_text, now)
+        if not is_recent(date, now): continue
+        if not is_relevant(title, strict=False): continue
+        items.append({"title": title, "url": url, "date": date, "source": "生物谷", "category": classify(title), "summary": ""})
         if len(items) >= MAX_ITEMS_PER_SOURCE: break
     print(f"  获取 {len(items)} 条")
     return items
@@ -110,7 +142,10 @@ def crawl_ebiotrade():
             if parent is None: break
             date_text = parent.get_text(" ", strip=True)
             if re.search(r"20\d{2}", date_text): break
-        items.append({"title": title, "url": url, "date": extract_date(date_text, now), "source": "生物通", "category": classify(title), "summary": ""})
+        date = extract_date(date_text, now)
+        if not is_recent(date, now): continue
+        if not is_relevant(title, strict=True): continue
+        items.append({"title": title, "url": url, "date": date, "source": "生物通", "category": classify(title), "summary": ""})
         if len(items) >= MAX_ITEMS_PER_SOURCE: break
     print(f"  获取 {len(items)} 条")
     return items
@@ -188,8 +223,10 @@ def main():
         print("!! 未获取到任何资讯"); sys.exit(1)
     seen_titles = set(); unique = []
     for it in all_items:
-        if it["title"] in seen_titles: continue
-        seen_titles.add(it["title"]); unique.append(it)
+        norm_title = re.sub(r"[!！?？\s]+$", "", it["title"])
+        key = norm_title[:60]
+        if key in seen_titles: continue
+        seen_titles.add(key); it["title"] = norm_title; unique.append(it)
     unique.sort(key=lambda x: x["date"], reverse=True)
     grouped = {}
     for it in unique: grouped.setdefault(it["category"], []).append(it)
