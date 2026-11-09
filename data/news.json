@@ -1,13 +1,13 @@
 {
   "meta": {
-    "date": "2026-11-08",
-    "generated_at": "2026-11-08 02:06:11"
+    "date": "2026-11-09",
+    "generated_at": "2026-11-09 02:27:33"
   },
   "items": [
     {
       "title": "会议报名 | 2026亚太科研与工程智能大会，12月强势开场！中国AI for Science的蓝图，我们一起来书写",
       "url": " http://news.bioon.com/article/77dd963033b7.html ",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "生物谷",
       "category": "科研前沿",
       "summary": ""
@@ -15,55 +15,367 @@
     {
       "title": "爱思唯尔官方科研AI免费试用中！2000万+文献打底，每条结论都可追溯，即刻开启科研级AI体验吧~",
       "url": " http://news.bioon.com/article/9936952362e6.html ",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "生物谷",
       "category": "技术突破",
       "summary": ""
     },
     {
-      "title": "Nat Communi：白血病干细胞靠“抗氧化盾”续命：重庆医科大学赵雪雅等发现NYNRIN是关键守门人",
-      "url": " http://news.bioon.com/article/988296155405.html ",
-      "date": "2026-11-08",
+      "title": "Adv Sci：复旦大学宋少莉等发现谷氨酰胺摄取是肝癌免疫逃逸的“隐形检查点”",
+      "url": " http://news.bioon.com/article/cc15962660b7.html ",
+      "date": "2026-11-09",
       "source": "生物谷",
       "category": "疾病与治疗",
       "summary": ""
     },
     {
-      "title": "Science：无危不等于安全：中国学者揭示常见鸟的基因组正在隐秘缩水",
-      "url": " http://news.bioon.com/article/39f4961553a2.html ",
-      "date": "2026-11-08",
+      "title": "Science：小分子“释放刹车”激活 E3 连接酶，一次清除多种致病蛋白，恢复线粒体呼吸并保护神经细胞",
+      "url": " http://news.bioon.com/article/c10c9630132e.html ",
+      "date": "2026-11-09",
       "source": "生物谷",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "Cell子刊：高血糖偷走巨噬细胞的修复指令，北京大学李建平/张岩等发现FOXK2被糖基化“标记清除”",
+      "url": " http://news.bioon.com/article/1e99962616c3.html ",
+      "date": "2026-11-09",
+      "source": "生物谷",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "Nat Aging：一张问卷加一个AI模型，帕金森病筛查有望提前数年",
+      "url": " http://news.bioon.com/article/a0c896265334.html ",
+      "date": "2026-11-09",
+      "source": "生物谷",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "Science：微软DxO在复杂病例诊断测试中准确率达83.2%，远超单人医生平均水平",
+      "url": " http://news.bioon.com/article/c3ac962985b1.html ",
+      "date": "2026-11-09",
+      "source": "生物谷",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "摆脱静态评估桎梏！Journal of Translational Internal Medicine：数字孪生融合类器官与多组学，破解肝胆肿瘤异质性诊疗难题",
+      "url": " http://news.bioon.com/article/7659962541e3.html ",
+      "date": "2026-11-09",
+      "source": "生物谷",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "Adv Sci：鼻咽癌里的“坏微环境巢”，李望忠/向燕群发现EBV用MIF养出助癌巨噬细胞",
+      "url": " http://news.bioon.com/article/742c96261532.html ",
+      "date": "2026-11-09",
+      "source": "生物谷",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "减肥卡壳未必管不住嘴！微塑料或是诱发代谢异常的环境元凶｜NanoImpact解析肠道菌群代谢物介导肥胖损伤潜在机制",
+      "url": " http://news.bioon.com/article/f77e96223e1e.html ",
+      "date": "2026-11-09",
+      "source": "生物谷",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "中老年人选什么品牌的鱼油更放心？认准\"蓝帽子\"批号，3款高性价比国产品牌推荐",
+      "url": " http://news.bioon.com/article/0d4b9631906c.html ",
+      "date": "2026-11-09",
+      "source": "生物谷",
+      "category": "综合",
+      "summary": ""
+    },
+    {
+      "title": "2026挑选婴儿奶粉避坑必看： 六款主流产品保护力、吸收力、奶源新鲜度硬核对比",
+      "url": " http://news.bioon.com/article/057d9631e9e1.html ",
+      "date": "2026-11-09",
+      "source": "生物谷",
+      "category": "综合",
+      "summary": ""
+    },
+    {
+      "title": "少喝点到底是多少？2026 年用克数算一遍，再看护肝片",
+      "url": " http://news.bioon.com/article/4e399631865d.html ",
+      "date": "2026-11-09",
+      "source": "生物谷",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "综述：抗体药物偶联物（ADCs）：作用机制、临床应用与未来展望",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107222823485.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "NAD + 作为肿瘤代谢免疫检查点：从代谢生态学、NAMPT三分法药理学分类到双相治疗策略的转化重构",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107222144055.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "度普利尤单抗重塑嗜酸性粒细胞性慢性鼻窦炎免疫细胞转录反应及 ALOX15 介导机制研究",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108000122509.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "三阴性乳腺癌 Vδ2 γδ T 细胞免疫疗法中 ICAM1 代谢 - 表观遗传调控机制",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107223633250.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "综述：ADGRL1 在神经、代谢与肿瘤发生中的多效性机制与转化框架",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107223637283.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "整合遗传与单细胞分析揭示巨噬细胞介导衰老与骨质疏松关联及TGFB1/HNRNPUL1调控轴",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108000246697.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "COMP通过MUC1/YAP1/NUPR1/LCN2轴抵抗铁死亡促进前列腺癌转移",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107222814001.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "巨噬细胞与T细胞免疫代谢及表观遗传重编程在炎症性肠病中的作用：从机制环路到治疗靶向",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107222804323.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "创伤性脑损伤通过免疫机制加剧帕金森病相关神经退行性病变",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107222819291.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "联合阻断 LIGHT 和 OXPHOS 通路治疗混合粒细胞性哮喘",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108000122851.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "脂多糖预处理通过重塑海马髓系细胞缓解神经炎症行为异常",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107222817118.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "综合",
+      "summary": ""
+    },
+    {
+      "title": "微生物源(酰胺位)N-甲基烟酰胺作为新型NAD+前体驱动肠道干细胞更新与上皮修复",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108082228952.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "综合",
+      "summary": ""
+    },
+    {
+      "title": "胆固醇 25-羟化酶及其代谢产物通过脂质重编程机制调控脑内出血后吞噬细胞功能与神经恢复",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107222818153.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "综述：胆管癌中 HDAC1 表观遗传靶点的分子机制与联合治疗策略",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107222810022.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "驯化田芥菜中ALS与HPPD除草剂耐受等位基因发掘及基于HDR的精准基因组编辑部署",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108000116837.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "基于 AUTOTAC 平台的突变 p53 聚集物靶向疗法治疗胰腺癌",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108000250720.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "GluD1选择性维持含GluN2B的NMDAR突触功能与下托可塑性：连接神经发育受体调控与情境记忆的分子机制",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108000523257.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "肥胖人群表观遗传年龄加速与代谢综合征及血管并发症的关联与炎症机制",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107222808996.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "免疫细胞特异性基因表达与表观遗传衰老的遗传关联及治疗潜力分析",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107223639573.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "标题\nDato-DXd在经多线治疗（含ADC）后HR+/HER2−转移性乳腺癌中的疗效与安全性：单中心真实世界研究",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108000536396.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "肥胖与2型糖尿病患者人肠系膜及皮下脂肪组织的单细胞转录组与免疫细胞表型图谱",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108082158787.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "可解释人工智能揭示重组率与染色质环境作为玉米与白菜型油菜亚基因组演化的关键预测因子",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108082213020.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "脂肪酸微生物生物合成与人类健康：生物学证据、生产进展及商业化挑战",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108000552146.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "产业与公司",
+      "summary": ""
+    },
+    {
+      "title": "双酚 A 通过 SPP1-ECM 轴调控三阴性乳腺癌免疫抑制微环境",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107222806764.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "综述：癌症幸存者生物学与表观遗传学衰老变化的系统评价",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107225521997.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "基于空间蛋白质组学的共生草履虫细胞脂质滴重组与围藻液泡形成机制解析",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108082339091.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "肝细胞胞外囊泡通过 miR-122-5p 诱导肝星形细胞铁死亡抗肝纤维化",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107223636241.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "恶性骨巨细胞瘤15例临床病理分析：H3.3G34W/H3F3A G34W 检测、P63表达及denosumab相关诊断陷阱",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261108000316774.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "硫酸氧钒通过改变衰老细胞中蛋白质半胱氨酸反应性触发衰老细胞清除并改善衰老相关表型",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000600886.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
       "category": "科研前沿",
       "summary": ""
     },
     {
       "title": "面向单细胞eQTL分析的高效精准泊松混合模型关联工具",
       "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000632748.htm",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "硫酸氧钒通过改变衰老细胞中蛋白质半胱氨酸反应性触发衰老细胞清除并改善衰老相关表型",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000600886.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "JNK信号通路在组织应激中平衡细胞凋亡与存活",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106233319611.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "综合",
       "summary": ""
     },
     {
       "title": "三价XBB.1.5疫苗在老年人加强接种12个月后的中和抗体持久性与保护效果优于二价和四价XBB疫苗",
       "url": "https://www.ebiotrade.com/newsf/2026-11/20261107031906569.htm",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "JNK信号通路在组织应激中平衡细胞凋亡与存活",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106233319611.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "综合",
+      "summary": ""
+    },
+    {
+      "title": "抗体偶联药物毒性图谱解析与优化设计：提升安全性与抗肿瘤疗效",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107032044794.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "石榴衍生纳米囊泡通过调控炎症反应改善小鼠慢性皮炎样病变的体内治疗作用",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000511368.htm",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "疾病与治疗",
       "summary": ""
@@ -71,39 +383,23 @@
     {
       "title": "基于表观遗传邻近杂交反应的非破坏性单细胞多位点组合表观标记三维空间解析",
       "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000711333.htm",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "石榴衍生纳米囊泡通过调控炎症反应改善小鼠慢性皮炎样病变的体内治疗作用",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000511368.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
       "summary": ""
     },
     {
       "title": "REV-ERBα 调控视网膜代谢与功能并延缓视网膜色素变性进展",
       "url": "https://www.ebiotrade.com/newsf/2026-11/20261106225842717.htm",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "科研前沿",
       "summary": ""
     },
     {
-      "title": "抗体偶联药物毒性图谱解析与优化设计：提升安全性与抗肿瘤疗效",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107032044794.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
       "title": "髓系来源ITGAM + 细胞外囊泡经S100a9介导的代谢重编程触发急性肾损伤中CD8 + T细胞活化",
       "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000511545.htm",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "疾病与治疗",
       "summary": ""
@@ -111,7 +407,7 @@
     {
       "title": "WNK激酶通过调控RNF43质膜水平精细调节WNT信号",
       "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000538680.htm",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "技术突破",
       "summary": ""
@@ -119,39 +415,15 @@
     {
       "title": "细胞外囊泡在空间生物医学研究中的应用：从微重力敏感的细胞适应到液体活检与再生医学",
       "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000511725.htm",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "科研前沿",
       "summary": ""
     },
     {
-      "title": "巨噬细胞来源迁移体促进子宫内膜异位症纤维化的研究",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106205957700.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "短期 Morris 水迷宫训练对阿尔茨海默病小鼠 Aβ 病理及神经炎症的影响",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106225833545.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "综述：Musashi-2：RNA 转录后调控的核心枢纽及其在疾病与治疗中的应用",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106210000854.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "甲基化 CpG 结合域蛋白 3 通过 Runx2 去乙酰化介导糖皮质激素诱导的骨质疏松症",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000405770.htm",
-      "date": "2026-11-08",
+      "title": "植物蛋白摄入模式与中老年人群肌少性肥胖发病风险：三个国家队列中蛋白质来源贡献及双向关联研究",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000106945.htm",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "科研前沿",
       "summary": ""
@@ -159,55 +431,23 @@
     {
       "title": "免疫健全型器官芯片（OoC）方法用于1型糖尿病（T1D）研究：从血管化胰腺芯片（PoC）到情境化验证",
       "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000328443.htm",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "癌症治疗过程中的吸烟与戒烟问题：20年来在将戒烟作为标准癌症治疗措施方面取得的进展",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000545002.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "小胶质细胞 IL-6R 缺失对缺血性中风后认知恢复的性别依赖性影响",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106225832532.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "综合",
-      "summary": ""
-    },
-    {
-      "title": "骨骼肌mTORC1组成性激活驱动老年小鼠骨骼肌促炎基因表达",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000352308.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
       "summary": ""
     },
     {
       "title": "衰老心脏中免疫-纤维化轴改变的空间局域化特征",
       "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000359665.htm",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "综合",
       "summary": ""
     },
     {
-      "title": "磷脂酶D1（PLD1）通过脂质代谢轴激活NAD激酶（NADK）调控中性粒细胞胞外诱捕网（NET）形成",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107032029188.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "技术突破",
-      "summary": ""
-    },
-    {
-      "title": "植物蛋白摄入模式与中老年人群肌少性肥胖发病风险：三个国家队列中蛋白质来源贡献及双向关联研究",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000106945.htm",
-      "date": "2026-11-08",
+      "title": "巨噬细胞来源迁移体促进子宫内膜异位症纤维化的研究",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106205957700.htm",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "科研前沿",
       "summary": ""
@@ -215,7 +455,39 @@
     {
       "title": "同时靶向PD-(L)1与VEGF的双特异性抗体及TROP2抗体偶联药物在无驱动基因突变晚期非小细胞肺癌中的治疗进展——2026年ASCO年会亮点",
       "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000321000.htm",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "疾病与治疗",
+      "summary": ""
+    },
+    {
+      "title": "小胶质细胞 IL-6R 缺失对缺血性中风后认知恢复的性别依赖性影响",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106225832532.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "综合",
+      "summary": ""
+    },
+    {
+      "title": "焦亡巨噬细胞来源细胞外囊泡经miR-103a-3p靶向MFN2与BCL2L13诱导线粒体功能障碍促进卵巢储备功能减退",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000352094.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "综合",
+      "summary": ""
+    },
+    {
+      "title": "骨骼肌mTORC1组成性激活驱动老年小鼠骨骼肌促炎基因表达",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000352308.htm",
+      "date": "2026-11-09",
+      "source": "生物通",
+      "category": "科研前沿",
+      "summary": ""
+    },
+    {
+      "title": "碳青霉烯耐药肺炎克雷伯菌在希腊ICU中的进化：本地碳青霉烯酶获得、全国性院内传播及新型抗菌药物耐药的出现",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000624304.htm",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "疾病与治疗",
       "summary": ""
@@ -223,296 +495,16 @@
     {
       "title": "基于RNA-seq的等位基因特异性表达揭示DMDmdx大鼠肌肉中候选表达变异差异",
       "url": "https://www.ebiotrade.com/newsf/2026-11/20261106215602652.htm",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "生物通",
       "category": "科研前沿",
       "summary": ""
     },
     {
-      "title": "焦亡巨噬细胞来源细胞外囊泡经miR-103a-3p靶向MFN2与BCL2L13诱导线粒体功能障碍促进卵巢储备功能减退",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000352094.htm",
-      "date": "2026-11-08",
+      "title": "短期 Morris 水迷宫训练对阿尔茨海默病小鼠 Aβ 病理及神经炎症的影响",
+      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106225833545.htm",
+      "date": "2026-11-09",
       "source": "生物通",
-      "category": "综合",
-      "summary": ""
-    },
-    {
-      "title": "熟悉程度与浓度对嗅觉感知脑激活模式的影响",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106225816947.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "综合",
-      "summary": ""
-    },
-    {
-      "title": "基因组时代的真菌病毒：生态、进化与One Health视角",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107000431337.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "染料配体功能化胶原纤维作为高效蛋白质分离的亲和色谱固定相",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261107030314836.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "Licoflavone B通过抑制上皮PI3K–AKT/NF-κB与NLRP3炎症小体信号通路缓解过敏性鼻炎",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106020351510.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "综合",
-      "summary": ""
-    },
-    {
-      "title": "Nature：你的大脑是如何爱上咖啡、巧克力和糖的",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261105033116651.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "基于信息论框架从单细胞RNA与T细胞受体测序推断T细胞动力学",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106000650481.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "基于域不变自适应校准的几何深度学习框架：空间多组学垂直与水平整合及自动注释",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106000812910.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "两篇Nature论文深度解析胶质母细胞瘤的可塑性",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261105033122850.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "对立的微生物组介导轴揭示可调控生活方式联结健康与慢性疾病的机制",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106000714602.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "综述：人工智能辅助罕见病变异解释：聚焦意义不明变异的五维证据体系与临床应用",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261105233132911.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "CD4⁺ T 细胞通过 IL-3 介导的血管重塑与破坏机制抑制肿瘤生长的新机制",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106031628267.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "中国科大生物医学工程学院发布开源RNA序列基础模型",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106083315025.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "产业与公司",
-      "summary": ""
-    },
-    {
-      "title": "睡眠破坏与炎症性衰老的恶性循环：机制、后果与治疗机遇",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106000422686.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "综述：Hippo 通路调控癌症免疫循环机制及免疫治疗新策略",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106000615320.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "针对DNAm年龄预测的共形不确定性量化：BayesAge表观遗传时钟的校准预测区间",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106020350414.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "综合",
-      "summary": ""
-    },
-    {
-      "title": "Cell子刊：与其他哺乳动物相比，人类为何更容易患上小头畸形",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261105090930850.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "揭示冬眠与阿尔茨海默病共享的脑转录组适应程序：基于单核RNA测序的金仓鼠海马细胞图谱",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106082449628.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "基于Nanopore直接RNA测序的心脏衰竭m6A全景图谱揭示SYNPO2L RNA异构体调控机制",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106000605992.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "心脏纤维化中的表观遗传调控：从机制到治疗策略",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106000355344.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "Tau单体与纤维通过不同细胞机制逃避小胶质细胞清除",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106000629666.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "Eu-VSOP增强多参数PET/MRI无创可视化肝癌不完全消融后巨噬细胞富集的瘤周免疫重塑",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106000237375.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "贝派地酸（Bempedoic Acid）在他汀不耐受患者中的临床应用：真实世界实施策略、CLEAR试验之外的心血管获益及联合治疗路径",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261105234228370.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "狼疮性肾炎尿液与肾内免疫景观的多组学整合图谱揭示趋同的炎症与纤维化程序",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106000417475.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "单细胞多组学揭示难治性肺炎支原体肺炎中独特的免疫抑制机制",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261105220120906.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "综述：帕金森病中性脂质稳态紊乱：机制、遗传学证据与治疗靶点",
-      "url": "https://www.ebiotrade.com/newsf/2026-11/20261106000633255.htm",
-      "date": "2026-11-08",
-      "source": "生物通",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "共建智能干湿实验闭环，华大智造推动细胞外囊泡技术产业化落地",
-      "url": " http://news.bioon.com/article/4f859630380b.html ",
-      "date": "2026-11-07",
-      "source": "生物谷",
-      "category": "综合",
-      "summary": ""
-    },
-    {
-      "title": "从“压力在哪”到“影响在哪”！《Science》封面揭示21490种淡水物种、45项威胁：全球保护优先干预的空间指南",
-      "url": " http://news.bioon.com/article/ab9796155231.html ",
-      "date": "2026-11-07",
-      "source": "生物谷",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "Cell：香港大学团队揭示，淀粉样蛋白随年龄增长的结构演变，导致记忆障碍",
-      "url": " http://news.bioon.com/article/8cbd96152ea7.html ",
-      "date": "2026-11-07",
-      "source": "生物谷",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "Nature颠覆性发现：乳酸可通过捷径直接进入线粒体，为心脏供能",
-      "url": " http://news.bioon.com/article/3ab896152645.html ",
-      "date": "2026-11-07",
-      "source": "生物谷",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "Science子刊：桂涛/陈博来/杨伟毅/郑小飞合作发现骨关节炎发病新机制，并开发LNP-siRNA疗法",
-      "url": " http://news.bioon.com/article/9b4f9615251c.html ",
-      "date": "2026-11-07",
-      "source": "生物谷",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "CAR-T进入全新领域：华人学者开发新型CAR-T细胞，恢复肌肉再生，治疗DMD",
-      "url": " http://news.bioon.com/article/0cd39615241b.html ",
-      "date": "2026-11-07",
-      "source": "生物谷",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "Nature Biotechnology：mRNA疫苗，帮助奶牛对抗H5N1流感病毒",
-      "url": " http://news.bioon.com/article/2e8996152362.html ",
-      "date": "2026-11-07",
-      "source": "生物谷",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "Science子刊：打破半世纪毒性瓶颈，中国药科大学王宗强开发高效低毒的抗真菌候选药物",
-      "url": " http://news.bioon.com/article/e183961522d5.html ",
-      "date": "2026-11-07",
-      "source": "生物谷",
-      "category": "疾病与治疗",
-      "summary": ""
-    },
-    {
-      "title": "进博首发：华大智造官宣“测序仪AI Ready”，让Agent参与测序",
-      "url": " http://news.bioon.com/article/b65296296820.html ",
-      "date": "2026-11-07",
-      "source": "生物谷",
-      "category": "科研前沿",
-      "summary": ""
-    },
-    {
-      "title": "Vita：不止抗癌！CAR-T细胞疗法，首次用于治疗慢性血管疾病",
-      "url": " http://news.bioon.com/article/e21996152161.html ",
-      "date": "2026-11-07",
-      "source": "生物谷",
       "category": "疾病与治疗",
       "summary": ""
     }
